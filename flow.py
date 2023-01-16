@@ -1,9 +1,3 @@
-"""
- Name: Sagar Sikchi
- Batch B2
- Roll No. 65
- Course Project (System Programming): Math Interpreter using Python
- """
 
 
 
